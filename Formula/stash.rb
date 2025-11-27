@@ -3,7 +3,6 @@ class Stash < Formula
     homepage "https://github.com/ayushman-git/stash"
     version "0.1.0"
     license "MIT"
-    bottle :unneeded
   
     on_macos do
       on_arm do
